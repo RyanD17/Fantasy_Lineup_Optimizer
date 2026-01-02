@@ -1,0 +1,30 @@
+What do I want app to do
+
+- Look at players in FA and be able to compare any number of players to each other
+based on projected points
+    - What UI elements do I need?
+-Use ML to predict line performance in current and future weeks
+- Create Rankings for FA's depending on the type of category
+- Trade Simulator (EA Sports Franchise Mode) for both trades as FA Signings
+- Chatbot that can answer questions that managers have
+-
+
+
+
+ask questions based on where they come from
+(if they are emotional do not have the conversation)
+
+listen to the other person and be empathetic
+
+be cautious if people have same political view
+
+thank you for sharing (if organizations ask for your support)
+and share with dad to research about them
+
+ask questions, listen, and let me think about context.
+
+
+
+
+
+
